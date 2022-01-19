@@ -1,0 +1,20 @@
+.heading{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.table{
+    margin: 15px;
+    padding: 5px;
+}
+
+.table-row-head{
+    background-color: rgb(213, 214, 210);
+    margin: 5px;
+}
+
+.table-row{
+    margin: 2px;
+    padding: 4px;
+}
